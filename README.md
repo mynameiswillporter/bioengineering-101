@@ -1,6 +1,7 @@
 # Bioengineering 101
 This is a collection of notes and resources that I have made/gathered while
-taking Bioengineering 101 from [The ODIN](https://the-odin.com).
+taking Bioengineering 101 from [The ODIN](https://the-odin.com). To sign up for
+the class and purchase the required materials, click [here](https://www.the-odin.com/bioe101/).
 
 ## [Molecular Biology of the Cell](molecular_biology_of_the_cell/README.md)
 - [Chapter 1: Cells and Genomes](molecular_biology_of_the_cell/chapter1.md)
