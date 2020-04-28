@@ -49,30 +49,30 @@ a specific configuration.
 - In the nineteenth century, biologists noticed that in the absence of air cells produce lactic acid (for example, in muscle) or ethanol (for example, in yeast), while  in its presence they consume O2 and produce CO2 and H2 O.
 
 ## Glossary
-- *Covalent Bond* - a chemical bond that involves the sharing of an electron
+- **Covalent Bond** - a chemical bond that involves the sharing of an electron
 between atoms.
-- *Hydrogen Bond* - a weak bond between two molecules resulting from an
+- **Hydrogen Bond** - a weak bond between two molecules resulting from an
 electrostatic attraction between a proton in one molecule and an
 electronegative atom in another molecule.
-- *Hydrophilic* - having a tendency to mix with or dissolve in water
-- *Hydrophobic* - tending to repel or not mix with water
-- *Hydronium Ion* - (H3O+) a protonated water molecule present in all aqueous liquids.
-- *pH Scale* - a logarithmic scale that inversely indicates the concentration of
+- **Hydrophilic** - having a tendency to mix with or dissolve in water
+- **Hydrophobic** - tending to repel or not mix with water
+- **Hydronium Ion** - (H3O+) a protonated water molecule present in all aqueous liquids.
+- **pH Scale** - a logarithmic scale that inversely indicates the concentration of
 hydrogen atoms in a solution.
-- *Alkaline* - having a pH greater than 7.
-- *Organic Molecules* - carbon compounds made by cells.
-- *Condensation Reaction* - A chemical reaction resulting in the generation of a water molecule.
-- *Hydrolysis* - the opposite of a condensation reaction.
-- *Substrate* - a starting material for a chemical reaction.
-- *Catabolic pathway* - a series of chemical reactions that break down foodstuffs into smaller molecules.
-- *Anabolic pathway* - (biosynthetic) a chemical pathway that uses the products of catabolism to drive the synthesis of other molecules.
-- *Metabolism* - the catabolic and anabolic pathways of the cell.
-- *Aerobic Respiration* - the process of producing cellular energy involving oxygen.
-- *Oxidation* - the removal of electrons.
-- *Reduction* - the addition of elections.
-- *Hydrogenation* - a reduction reaction that adds a proton.
-- *Dehydrogenation* - an oxidation reaction that removes a proton.
-- *Free energy* - energy that can be harnessed to do work or drive chemical reactions.
-- *Activation energy* - the minimum quantity of energy which the reacting species must possess in order to undergo a specified reaction.
-- *Active site* - a pocket or groove in an enzyme into which only particular substrates would fit.
-- *Energetically favorable reactions* - reactions that decrease free energy; in  other words, they have a negative ∆G and disorder the universe.
+- **Alkaline** - having a pH greater than 7.
+- **Organic Molecules** - carbon compounds made by cells.
+- **Condensation Reaction** - A chemical reaction resulting in the generation of a water molecule.
+- **Hydrolysis** - the opposite of a condensation reaction.
+- **Substrate** - a starting material for a chemical reaction.
+- **Catabolic pathway** - a series of chemical reactions that break down foodstuffs into smaller molecules.
+- **Anabolic pathway** - (biosynthetic) a chemical pathway that uses the products of catabolism to drive the synthesis of other molecules.
+- **Metabolism** - the catabolic and anabolic pathways of the cell.
+- **Aerobic Respiration** - the process of producing cellular energy involving oxygen.
+- **Oxidation** - the removal of electrons.
+- **Reduction** - the addition of elections.
+- **Hydrogenation** - a reduction reaction that adds a proton.
+- **Dehydrogenation** - an oxidation reaction that removes a proton.
+- **Free energy** - energy that can be harnessed to do work or drive chemical reactions.
+- **Activation energy** - the minimum quantity of energy which the reacting species must possess in order to undergo a specified reaction.
+- **Active site** - a pocket or groove in an enzyme into which only particular substrates would fit.
+- **Energetically favorable reactions** - reactions that decrease free energy; in  other words, they have a negative ∆G and disorder the universe.
