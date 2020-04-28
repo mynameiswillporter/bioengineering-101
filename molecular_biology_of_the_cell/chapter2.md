@@ -1,4 +1,4 @@
-# Chapter 1: Cell Chemistry and Bioenergetics
+# Chapter 2: Cell Chemistry and Bioenergetics
 
 ## Notes
 - 06.5% of an organism's weight consists of carbon, hydrogen, nitrogen, and oxygen.
@@ -13,23 +13,24 @@
 under a variety of conditions.
 - If we disregard water and inorganic ions such as potassium, nearly all the molecules in a cell are based on carbon.
 - The following chemical groups occur repeatedly in the molecules made by cells:
- - methyl (-CH3)
- - hydroxyl (-OH)
- - carboxyl (-COOH)
- - carbonyl (-C=O)
- - phosphate (-PO3(2-))
- - sulfhydrl (-SH)
- - amino (-NH2)
+  - methyl (-CH3)
+  - hydroxyl (-OH)
+  - carboxyl (-COOH)
+  - carbonyl (-C=O)
+  - phosphate (-PO3(2-))
+  - sulfhydrl (-SH)
+  - amino (-NH2)
 - There are four main categories of organic molecules
- - sugars
- - fatty acids
- - nucleotides
- - amino acids
+  - sugars
+  - fatty acids
+  - nucleotides
+  - amino acids
 - Each polymer, whether it is a protein, nucleic acid, or polysaccharide, grows by the addition of a monomer to a growing
 chain via a condensation reaction.
 - The noncovalent bonds in a polymer tend to cause specific polymers to prefer
 a specific configuration.
 - Noncovalent bonds can also create a strong attraction between two different molecules.
+- Diffusion is an efficient way for small molecules to move the limited distances in the cell.
 - One property of living things above all makes them seem almost miraculously different from nonliving matter: they create and maintain order, in a universe that is tending always to greater disorder. To create this order, the cells in  a living organism must perform a never-ending stream of chemical reactions.
 - The chemical reactions that a cell carries out would normally occur only at much  higher temperatures than those existing inside cells. The cell uses catalysts to perform chemical reactions at lower temperatures.
 - The second law of thermodynamics states that the degree of disorder in the universe or in an isolated system is always increasing.
@@ -74,5 +75,4 @@ hydrogen atoms in a solution.
 - Free energy - energy that can be harnessed to do work or drive chemical reactions.
 - Activation energy - the minimum quantity of energy which the reacting species must possess in order to undergo a specified reaction.
 - Active site - a pocket or groove in an enzyme into which only particular substrates would fit.
-- Diffusion is therefore an efficient way for small molecules to move the limited distances in the cell.
 - Energetically favorable reactions - reactions that decrease free energy; in  other words, they have a negative ∆G and disorder the universe.
