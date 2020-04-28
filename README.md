@@ -12,3 +12,8 @@ the class and purchase the required materials, click [here](https://www.the-odin
 ## [Scientific Papers](scientific_papers/README.md)
  - [Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors](scientific_papers/induction_of_pluripotent.md)
  - [Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome](scientific_papers/creation_of_a_bacterial.md)
+
+## Lectures
+
+## Labs
+- [How to pipette](labs/how_to_pipette.md)
