@@ -1,7 +1,7 @@
 # Chapter 2: Cell Chemistry and Bioenergetics
 
 ## Notes
-- 06.5% of an organism's weight consists of carbon, hydrogen, nitrogen, and oxygen.
+- 96.5% of an organism's weight consists of carbon, hydrogen, nitrogen, and oxygen.
 - Noncovalent bonds are weaker than covalent bonds.
 - Molecules, such as alcohols, that contain polar bonds and that can form  hydrogen bonds with water dissolve readily in water. Molecules carrying charges (ions) likewise interact favorably with water. Such molecules are termed hydrophilic.
 - Much of biology depends on the specific binding of different molecules caused by  three types of noncovalent bonds: electrostatic attractions (ionic bonds), hydrogen bonds, and van der Waals attractions; and on a fourth factor that can push  molecules together: the hydrophobic force.
