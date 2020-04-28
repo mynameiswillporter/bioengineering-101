@@ -10,10 +10,11 @@ the class and purchase the required materials, click [here](https://www.the-odin
 **Citation:** Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2002). *Molecular biology of the cell.* New York: Garland Science.
 
 ## [Scientific Papers](scientific_papers/README.md)
- - [Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors](scientific_papers/induction_of_pluripotent.md)
- - [Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome](scientific_papers/creation_of_a_bacterial.md)
+- [Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors](scientific_papers/induction_of_pluripotent.md)
+- [Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome](scientific_papers/creation_of_a_bacterial.md)
 
 ## Lectures
+- [Week 1](lectures/week1.md)
 
 ## Labs
 - [How to pipette](labs/how_to_pipette.md)
