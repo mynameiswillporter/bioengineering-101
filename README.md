@@ -16,6 +16,7 @@ the class and purchase the required materials, click [here](https://www.the-odin
 ## Lectures
 - [Week 1](lectures/week1.md)
 - [Week 2](lectures/week2.md)
+- [Week 2: Guest Lecture](lectures/week2guest.md)
 
 ## Labs
 - [How to pipette](labs/how_to_pipette.md)
