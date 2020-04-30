@@ -20,3 +20,4 @@ the class and purchase the required materials, click [here](https://www.the-odin
 ## Labs
 - [How to pipette](labs/how_to_pipette.md)
 - [Making Agar Plates](labs/making_agar_plates.md)
+- [Culture](labs/culture.md)
