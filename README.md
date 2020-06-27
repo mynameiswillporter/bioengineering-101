@@ -12,13 +12,20 @@ the class and purchase the required materials, click [here](https://www.the-odin
 ## [Scientific Papers](scientific_papers/README.md)
 - [Induction of Pluripotent Stem Cells from Mouse Embryonic and Adult Fibroblast Cultures by Defined Factors](scientific_papers/induction_of_pluripotent.md)
 - [Creation of a Bacterial Cell Controlled by a Chemically Synthesized Genome](scientific_papers/creation_of_a_bacterial.md)
+- [Genetical implications of the structure of Deoxyribonucleic Acid](scientific_papers/genetic_implications.md)
+- [Dynamic Personalities of Proteins](scientific_papers/dynamic_personalities.md)
+- [Central Dogma of Molecular Biology](scientific_papers/central_dogma.md)
+- [What does it mean to be 75% pumpkin](scientific_papers/75_percent_pumpkin.md)
 
 ## Lectures
 - [Week 1](lectures/week1.md)
 - [Week 2](lectures/week2.md)
 - [Week 2: Guest Lecture](lectures/week2guest.md)
+- [Week 3](lectures/week3.md)
+- [Week 4](lectures/week4.md)
 
 ## Labs
 - [How to pipette](labs/how_to_pipette.md)
 - [Making Agar Plates](labs/making_agar_plates.md)
 - [Culture](labs/culture.md)
+- [Streaking Bacteria](labs/streaking_bacteria.md)

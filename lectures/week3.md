@@ -1,0 +1,22 @@
+# Week 3
+- Protiens are what makes everything alive.
+- Proteins can absorb light, emite light, break down chemicals (enzymes).
+- Proteins can bind other molecules.
+- Protiens cannot emit radiation, unless possibly they bound to or contained a raidoactive element.
+- Radioactivity exists on a different layer of abstraction than proteins.
+- Protiens are composed of up to 20 unique amino acids.
+- Biological systems are sloppy and messy.
+- Protiens can be post-translationally modified (i.e. sugars added after translation)
+- A gene tells a cell it wants to make a protein.
+- DNA is transcirbed into RAN, RNA is translated into protein.
+- DNA is more stable than RNA.
+- The cell contains RNAases that are constantly destroying RNA.
+- Each sequence of 3 bases in DNA codes for a single amino acid (codon).
+- There is a stop codon at the end of a gene.
+- A good resource to find protiens is the NCBI database.
+- We can't predict how proteins will fold with a great amount of accuracy.
+- Protiens have multiple degress of reedom so they can fold in many ways.
+- RCSB lets you look at the 3D strucutre (rcsb.org).
+- The VMD program lets you look at molecules.
+- Amino acid polymers spontaneously fold into proteins.
+- The function of a protein depends on the geometry and chemical properties of the protein.

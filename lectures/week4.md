@@ -1,0 +1,15 @@
+# Week 4
+- If you dissolve a concentrated protein in water and let it dry, you can form protein crystals to use X-ray diffraction on.
+- You can literally form protien crystals.
+- X-rays diffract off crystals and you can solve the structure of the protein based on the diffraction pattern.
+- Proteins are moving and constantly on differnt timescales.
+- A protein's states are controlled by thermodynamic equilibrium.
+- Some chemicals will unfold a protein.
+- ATPase uses ATP to change a protein's structure.
+- Some protiens are refoldable, but some denature and are not refoldable.
+- When proteins unfold and then integrate with each other in their unfolded states, they cannot return to their normal folded state.
+- If a cell is deprived of amino acids it will just die.
+- Cells can build some amino acids from scratch.
+- Some amino acids are more important than others.
+- Some amino acids could substitute other amino acids in function.
+- Charged amino acids are irreplacible.
