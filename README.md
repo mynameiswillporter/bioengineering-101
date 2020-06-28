@@ -6,6 +6,7 @@ the class and purchase the required materials, click [here](https://www.the-odin
 ## [Molecular Biology of the Cell](molecular_biology_of_the_cell/README.md)
 - [Chapter 1: Cells and Genomes](molecular_biology_of_the_cell/chapter1.md)
 - [Chapter 2: Cell Chemistry and Bioenergetics](molecular_biology_of_the_cell/chapter2.md)
+- [Chapter 3: Proteins](molecular_biology_of_the_cell/chapter3.md)
 
 **Citation:** Alberts, B., Johnson, A., Lewis, J., Raff, M., Roberts, K., & Walter, P. (2002). *Molecular biology of the cell.* New York: Garland Science.
 
